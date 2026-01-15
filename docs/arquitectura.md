@@ -38,4 +38,4 @@ A continuación se muestra una tabla comparativa de las tecnologías que se util
 
 ---
 
-[Volver al inicio](index.md)
+[⬅️ Volver al inicio](index.md)

@@ -21,7 +21,7 @@ Para visualizar o editar:
 
 ### Instalación de la documentación desde la terminal de git
 
-git clone https://github.com/mangelmg8/Coffe-Community-doc.git
+_git clone https://github.com/mangelmg8/Coffe-Community-doc.git_
 
 
 [⬅️ Volver al inicio](index.md)

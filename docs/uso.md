@@ -52,5 +52,4 @@ A continuación se muestra una captura del prototipo inicial de la plataforma:
 
 ---
 
-
-[Volver al inicio](index.md)
+[⬅️ Volver al inicio](index.md)
