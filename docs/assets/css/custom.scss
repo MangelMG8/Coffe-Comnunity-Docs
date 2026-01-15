@@ -93,3 +93,23 @@ img {
   border-radius: 10px;   
   box-shadow: 0 4px 10px rgba(0,0,0,0.15);
 }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  background: var(--beige-crema);
+}
+
+table th,
+table td {
+  border: 1px solid var(--cafe-medio);
+  padding: 0.6rem 0.8rem;
+  text-align: left;
+}
+
+table th {
+  background: var(--beige-suave);
+  font-weight: bold;
+  color: var(--cafe-oscuro);
+}
