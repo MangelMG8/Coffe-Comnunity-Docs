@@ -42,4 +42,4 @@ La plataforma podría beneficiarse de un despliegue en servicios como Firebase H
 
 ---
 
-[Volver al inicio](index.md)
+[⬅️ Volver al inicio](index.md)
