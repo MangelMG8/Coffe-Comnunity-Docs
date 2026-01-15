@@ -4,7 +4,7 @@ title: Referencias
 ---
 
 #  Referencias
-
+La documentación de aquí es provisional
 ---
 
 ##  Documentación y guías técnicas
@@ -42,8 +42,6 @@ title: Referencias
   https://www.baristainstitute.com/
 
 ---
-
-## 🔙 Volver al índice
 
 [⬅️ Volver al inicio](index.md)
 

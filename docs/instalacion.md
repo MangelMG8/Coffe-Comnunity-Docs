@@ -4,6 +4,7 @@ title: Instalación
 ---
 
 # Instalación
+La informaciónd este apartado es para descargar la documentación y no el projecto real.
 
 ## Requisitos
 Para visualizar o editar:
