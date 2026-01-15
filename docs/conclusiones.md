@@ -3,7 +3,9 @@ layout: default
 title: Conclusiones
 ---
 
-# Conclusiones
+## Conclusiones
+---
+---
 
 Este proyecto pretende convertirse en una plataforma centrada en una comunidad, combinando contenido, interacción entre usuarios y funcionalidades adicionales como minijuegos o reseñas. Aún no está comenzado.
 
